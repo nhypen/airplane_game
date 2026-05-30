@@ -79,23 +79,9 @@ localStorage
 
 Your record remains saved even after refreshing the page.
 
-## 🚀 How to Run
-
-1. Download or clone the repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/airplane-game.git
-```
-
-2. Open:
-
-```text
-index.html
-```
-
-in your browser.
-
-No installation required.
+PLAY DIRECTLY IN YOUR BROWSER. No installation required.
+[
+](https://nhypen.github.io/airplane_game/)
 
 ## 🛠 Technologies
 
