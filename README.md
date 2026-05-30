@@ -80,8 +80,8 @@ localStorage
 Your record remains saved even after refreshing the page.
 
 PLAY DIRECTLY IN YOUR BROWSER. No installation required.
-[
-](https://nhypen.github.io/airplane_game/)
+
+(https://nhypen.github.io/airplane_game/)
 
 ## 🛠 Technologies
 
